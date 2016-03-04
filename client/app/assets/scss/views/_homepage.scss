@@ -27,6 +27,15 @@
     padding-top: 10px;
     border-top: 1px dotted #CCC;
   }
+  .app-link {
+    white-space: nowrap;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #00A1E0;
+    border-radius: 5px;
+    color: #FFF;
+    padding: 0px 5px;
+  }
   .picture {
     margin-bottom: 20px;
     img {
