@@ -1,11 +1,12 @@
+// Externals
 @import "externals/reset";
 @import "externals/bootstrap";
 @import "externals/font-awesome";
-
+// Tools
 @import "tools/variables";
 @import "tools/mixins";
 @import "tools/keyframes-animations";
-
+// Views
 @import "views/homepage";
 
 html {

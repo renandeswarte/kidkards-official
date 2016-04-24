@@ -1,8 +1,8 @@
 {
-  "name": "flashcards-app",
+  "name": "Kidkards-web",
   "private": true,
-  "version": "0.0.1",
-  "description": "exercise",
+  "version": "1.1",
+  "description": "Kidkards website",
   "repository": "todo",
   "scripts": {
     "postinstall": "bower install && grunt build",

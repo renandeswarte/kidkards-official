@@ -8,7 +8,5 @@ angular.module('myApp.homepage', ['ngRoute'])
   });
 }])
 
-
 .controller('homepage', function() {
-
 });
